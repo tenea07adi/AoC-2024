@@ -19,6 +19,7 @@ namespace AoC_2024
         static void LoadPuzzles(List<PuzzleLogicTemplate> puzzles)
         {
             puzzles.Add(new Day01());
+            puzzles.Add(new Day02());
         }
 
         static void RunPuzzles(List<PuzzleLogicTemplate> puzzles)
