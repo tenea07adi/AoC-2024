@@ -20,6 +20,8 @@ namespace AoC_2024
         {
             puzzles.Add(new Day01());
             puzzles.Add(new Day02());
+            puzzles.Add(new Day03());
+            puzzles.Add(new Day04());
         }
 
         static void RunPuzzles(List<PuzzleLogicTemplate> puzzles)
